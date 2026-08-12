@@ -16,17 +16,17 @@ It is intended for engineering managers and technical leaders working with exper
 
 ## Playbooks
 
-- [Async Decisions](docs/async-decisions.md)
-- [Career Growth and Feedback](docs/career-growth.md)
-- [Engineering Health](docs/engineering-health.md)
-- [Incident Learning](docs/incident-learning.md)
+- [Async Decisions](async-decisions.md)
+- [Career Growth and Feedback](career-growth.md)
+- [Engineering Health](engineering-health.md)
+- [Incident Learning](incident-learning.md)
 
 ## Ready-to-Use Templates
 
-- [Decision Record](templates/decision-record.md)
-- [Engineering Health Review](templates/engineering-health-review.md)
-- [Incident Review](templates/incident-review.md)
-- [Growth Conversation](templates/growth-conversation.md)
+- [Decision Record](decision-record.md)
+- [Engineering Health Review](engineering-health-review.md)
+- [Incident Review](incident-review.md)
+- [Growth Conversation](growth-conversation.md)
 
 ## Suggested Cadence
 
